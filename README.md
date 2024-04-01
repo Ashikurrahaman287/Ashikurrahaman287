@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Business Development,Business Management 
 - 📫 How to reach me ... Ashik@spudblocks.com
 - 😄 Pronouns: ...Ashik( I am a Man & Muslim)
-- ⚡ Fun fact: ... I love Gym and Travel!
+- ⚡ Fun fact: ... I love History Books ,Gym and Travel!
 
 <!---
 Ashikurrahaman287/Ashikurrahaman287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
