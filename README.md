@@ -38,5 +38,6 @@ Bash             17 hrs 27 mins  >------------------------   03.98 %
 
 # 📫 How to reach me?
 Ashik@spudblocks.com
-[@Batman_The_knight](https://t.me/Batman_The_knight)
+[Telegram](https://t.me/Batman_The_knight)
+[Facebook](https://www.facebook.com/Ashik.Spudblocks)
 
