@@ -34,6 +34,6 @@ Bash             17 hrs 27 mins  >------------------------   03.98 %
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashikurrahaman287&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashikurrahaman287&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ashikurrahaman287&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-📫 How to reach me ... Ashik@spudblocks.com
+# 📫 How to reach me ... Ashik@spudblocks.com
