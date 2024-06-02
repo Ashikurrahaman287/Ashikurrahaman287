@@ -35,7 +35,7 @@ Bash             17 hrs 27 mins  >------------------------   03.98 %
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ashikurrahaman287&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-https://www.hackerrank.com/certificates/iframe/d54d537e0ef2
+https://media.licdn.com/dms/image/D562DAQG7N_BQwtxc9g/profile-treasury-image-shrink_800_800/0/1717187358485?e=1717927200&v=beta&t=7OAoUg582rpa6P9GXxIay_s0lP32mplSi1zUhKohMDg
 
 # 📫 How to reach me?
 Ashik@spudblocks.com
