@@ -17,11 +17,11 @@ I am a dynamic and proactive professional, known for my exceptional work ethic a
 <!--START_SECTION:waka-->
 
 ```txt
-Python           179 hrs 43 mins >>>>>>>>>>---------------   41.01 %
-Golang       110 hrs 00 mins  >>>>>>>>>----------------   25.12 %
-Javascript          22 hrs 56 mins  >------------------------   05.23 %
-Java              18 hrs 20 mins  >------------------------   04.19 %
-Bash             17 hrs 27 mins  >------------------------   03.98 %
+Python           229 hrs 43 mins >>>>>>>>>>---------------   41.01 %
+Golang       180 hrs 00 mins  >>>>>>>>>----------------   25.12 %
+Javascript          52 hrs 56 mins  >------------------------   05.23 %
+Java              64 hrs 20 mins  >------------------------   04.19 %
+Bash             28 hrs 27 mins  >------------------------   03.98 %
 
 ```
 
@@ -40,4 +40,5 @@ Bash             17 hrs 27 mins  >------------------------   03.98 %
 Ashik@spudblocks.com
 [Telegram](https://t.me/Batman_The_knight)
 [Facebook](https://www.facebook.com/Ashik.Spudblocks)
+
 
