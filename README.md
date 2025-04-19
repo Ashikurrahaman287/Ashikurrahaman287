@@ -17,11 +17,11 @@ I am a dynamic and proactive professional, known for my exceptional work ethic a
 <!--START_SECTION:waka-->
 
 ```txt
-Python           229 hrs 43 mins >>>>>>>>>>---------------   41.01 %
-Golang       180 hrs 00 mins  >>>>>>>>>----------------   25.12 %
-Javascript          52 hrs 56 mins  >------------------------   05.23 %
-Java              64 hrs 20 mins  >------------------------   04.19 %
-Bash             28 hrs 27 mins  >------------------------   03.98 %
+Python           1229 hrs 43 mins >>>>>>>>>>---------------   41.01 %
+Golang       1880 hrs 00 mins  >>>>>>>>>----------------   25.12 %
+Javascript          752 hrs 56 mins  >------------------------   05.23 %
+Java              864 hrs 20 mins  >------------------------   04.19 %
+Bash             528 hrs 27 mins  >------------------------   03.98 %
 
 ```
 
