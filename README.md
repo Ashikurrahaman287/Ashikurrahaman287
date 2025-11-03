@@ -5,7 +5,7 @@ I am a dynamic and proactive professional, known for my exceptional work ethic a
 
 # 💻 Tech Stack:
 ### **Languages**
-![My Languages](https://skillicons.dev/icons?i=python,go,javascript,Solidity,java,html,bash,powershell&theme=dark)
+![My Languages](https://skillicons.dev/icons?i=python,go,javascript,java,html,bash,powershell&theme=dark)
 ### **Frameworks**
 ![My Frameworks](https://skillicons.dev/icons?i=django,flask,laravel,nodejs,vue,bootstrap&theme=dark)
 ### **Platforms**
