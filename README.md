@@ -1,7 +1,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ashikurrahaman287&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 # 💫 About Me:
-I am a dynamic and proactive professional, known for my exceptional work ethic and sharp problem-solving abilities. With a keen eye for opportunities, I consistently take the initiative to seek out and capitalize on them. My focused mindset drives me to effectively manage and develop businesses, leveraging a diverse skill set that I bring to the table.
+I am a focused and results-driven Software Engineer and AI & Blockchain Developer with 7+ years of technical delivery and over 10 years of entrepreneurial leadership. I design and ship scalable systems, production ML pipelines, and secure decentralized applications, translating complex technical problems into pragmatic, business‑impacting solutions. Known for strong ownership, strategic thinking, and rapid execution, I bridge product, engineering, and go‑to‑market priorities to accelerate growth, reduce time‑to‑value, and mentor high‑performing teams. Passionate about applying AI and blockchain to real‑world problems, I deliver measurable outcomes that drive adoption and sustainable value.
 
 # 💻 Tech Stack:
 ### **Languages**
@@ -17,11 +17,12 @@ I am a dynamic and proactive professional, known for my exceptional work ethic a
 <!--START_SECTION:waka-->
 
 ```txt
-Python           35275 hrs 43 mins >>>>>>>>>>---------------   41.01 %
-Golang       1750 hrs 00 mins  >>>>>>>>>----------------   25.12 %
-Javascript          2500 hrs 56 mins  >------------------------   05.23 %
-Java              1245 hrs 20 mins  >------------------------   04.19 %
-Bash             1120 hrs 27 mins  >------------------------   03.98 %
+TypeScript 20,864 hrs 00 mins >>>>>>>>>>--------------- 34.03 %
+Python 20,864 hrs 00 mins >>>>>>>>>>--------------- 34.03 %
+Golang 12,778 hrs 00 mins >>>>>>>>>---------------- 20.85 %
+Javascript 2,662 hrs 00 mins >------------------------ 4.34 %
+Java 2,134 hrs 00 mins >------------------------ 3.48 %
+Bash 2,018 hrs 00 mins >------------------------ 3.30 %
 
 ```
 
