@@ -17,12 +17,12 @@ I am a focused and results-driven Software Engineer and AI & Blockchain Develope
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript 25,864 hrs 00 mins >>>>>>>>>>--------------- 38.03 %
-Python 20,864 hrs 00 mins >>>>>>>>>>--------------- 34.03 %
-Golang 12,778 hrs 00 mins >>>>>>>>>---------------- 16.85 %
-Javascript 2,662 hrs 00 mins >------------------------ 4.34 %
-Java 2,134 hrs 00 mins >------------------------ 3.48 %
-Bash 2,018 hrs 00 mins >------------------------ 3.30 %
+TypeScript  6,141 hrs 00 mins ███████████░░░░░░░░░░░░░░░░░░░ 38.99 %
+Python      4,955 hrs 00 mins █████████░░░░░░░░░░░░░░░░░░░░░ 31.46 %
+Golang      3,035 hrs 00 mins ██████░░░░░░░░░░░░░░░░░░░░░░░░ 19.27 %
+Javascript    631 hrs 00 mins █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4.01 %
+Java          507 hrs 00 mins █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.22 %
+Bash          481 hrs 00 mins █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.04 %
 
 ```
 
