@@ -10,7 +10,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ashik.spudblocks.com-00FF7F?style=for-the-badge&logo=globe&logoColor=white)](https://ashik.spudblocks.com)
 [![Email](https://img.shields.io/badge/Email-ashikweb3.o@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashikweb3.o@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B880%201336--176841-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801336176841)
-[![Phone](https://img.shields.io/badge/Phone-%2B880%201619--617036-4A90E2?style=for-the-badge&logo=phone&logoColor=white)](tel:+8801619617036)
 
 </div>
 
