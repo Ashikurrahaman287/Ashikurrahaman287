@@ -1,27 +1,33 @@
 # Ashikur Rahaman
-### Full-Stack Engineer | AI & Blockchain Specialist | Enterprise Solutions Architect | Business School Graduate
+### Web3 Business Visionary | Enterprise Solutions Architect | Blockchain Developer | Tech Entrepreneur
 
 <div align="center">
 
-![Profile Banner](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=1000&lines=Enterprise%20Software%20Architect;Blockchain%20%26%20Web3%20Engineer;AI%2FML%20Solutions%20Developer;Tech+Entrepreneur+%7C+BBA+East+West+University)
+![Profile Banner](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=26&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=1200&lines=Pioneering+the+Future+of+FinTech+%26+Web3;Building+Decentralized+Economies+at+Scale;BBA+%7C+7%2B+Years+of+Technical+Excellence;220K%2B+Communities+%7C+%2487M%2B+VC+Backing)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ashikurrahaman287-181717?style=flat-square&logo=github)](https://github.com/Ashikurrahaman287)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashik%20The%20Knight-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashik-the-knight/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashik.spudblocks.com-00FF7F?style=flat-square&logo=globe)](https://ashik.spudblocks.com)
-[![Email](https://img.shields.io/badge/Email-ashikweb3.o@gmail.com-red?style=flat-square&logo=gmail)](mailto:ashikweb3.o@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B880%201336--176841-25D366?style=flat-square&logo=whatsapp)](https://wa.me/8801336176841)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashikur%20Rahaman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-the-knight/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ashikurrahaman287-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashikurrahaman287)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashik.spudblocks.com-00FF7F?style=for-the-badge&logo=globe&logoColor=white)](https://ashik.spudblocks.com)
+[![Email](https://img.shields.io/badge/Email-ashikweb3.o@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashikweb3.o@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B880%201336--176841-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801336176841)
+[![Phone](https://img.shields.io/badge/Phone-%2B880%201619--617036-4A90E2?style=for-the-badge&logo=phone&logoColor=white)](tel:+8801619617036)
 
 </div>
 
 ---
 
-## Executive Summary
+## 🎯 Executive Overview
 
-I am a **results-driven Software Engineer & Tech Entrepreneur** with **7+ years of professional expertise** building **mission-critical systems** for global enterprises. With a **BBA from East West University**, I uniquely blend **business acumen** with **technical mastery** to create scalable, profitable tech solutions.
+I am a **results-driven Web3 Business Development Executive** and **Full-Stack Blockchain Engineer** with **7+ years of professional expertise** building **mission-critical decentralized systems** and scaling global cryptocurrency ecosystems.
 
-My work spans **full-stack development**, **distributed systems architecture**, **blockchain engineering**, and **artificial intelligence**, informed by a strong foundation in **business strategy**, **entrepreneurial leadership**, and **operational excellence**.
+### Key Metrics
+- 💰 **$87M+** in venture capital backing across portfolio companies
+- 👥 **15M+** active users served across blockchain platforms
+- 🌍 **220K+** global community members managed
+- 🏢 **50+** successful blockchain projects delivered
+- ⚡ **99.9%** platform uptime maintained across services
 
-I have successfully delivered **50+ production-grade projects** that serve millions of users, handle billions of transactions, and generate significant revenue streams. My **business school background** enables me to think not just as an engineer, but as a **technical entrepreneur** solving real market problems.
+**My Unique Advantage**: I uniquely combine **business school education (BBA)** with **hands-on blockchain engineering** and **Web3 business development** expertise. I don't just build technology—I build profitable, scalable Web3 ecosystems.
 
 ---
 
@@ -30,319 +36,397 @@ I have successfully delivered **50+ production-grade projects** that serve milli
 ### **Bachelor of Business Administration (BBA)**
 **East West University, Bangladesh** | *Completed*
 
-**Key Focus Areas:**
-- 📊 **Business Management & Strategy** - Strategic planning, business models, market analysis
-- 💼 **Entrepreneurship** - Startup ecosystem, venture development, business scaling
-- 📈 **Finance & Economics** - Financial management, investment analysis, economic principles
-- 🎯 **Operations Management** - Process optimization, supply chain, resource management
-- 🤝 **Leadership & Organizational Behavior** - Team management, organizational structure, change management
+**Academic Foundation**:
+- Business Strategy & Growth Planning
+- Financial Forecasting & Revenue Modeling
+- Operations Management & Scaling
+- Leadership & Organizational Development
+- Entrepreneurship & Venture Development
 
-**How I Apply This:**
-- ✅ Design business models for tech products
-- ✅ Analyze market opportunities & competitive landscapes
-- ✅ Manage team operations & scaling strategies
-- ✅ Understand financial metrics & revenue optimization
-- ✅ Build sustainable, profitable tech businesses
+**Real-World Application**: Launched and scaled multiple Web3 ventures, managed $87M+ in VC backing, built communities of 220K+ users, and led teams across global cryptocurrency exchanges.
 
 ---
 
-## 💫 The Unique Advantage: Business + Technology
+## 💼 Current Leadership Positions
 
-### Why This Combination Matters
+### **SpudPay** | Founder (2025 - Present)
+**Blockchain-based Mobile Financial Service (MFS)**
 
-I don't just **build technology** — I build **business solutions**. This hybrid expertise allows me to:
+Revolutionary platform leveraging blockchain to facilitate seamless cross-border transactions.
 
-| Perspective | Traditional Engineer | Traditional MBA | **Ashikur (Hybrid)** |
-|-------------|-------------------|-----------------|-------------------|
-| **Thinks About** | Code quality, performance | Revenue, market share | 🎯 **How to build profitable, scalable tech** |
-| **Decision Making** | Technical excellence | Business metrics | 🎯 **Balance of both: ROI + code quality** |
-| **Building** | Features | Business plans | 🎯 **Sustainable tech ventures** |
-| **Pricing Models** | N/A | Strategic | 🎯 **Technical solutions with pricing strategy** |
-| **Team Scaling** | Hiring engineers | Hiring managers | 🎯 **Building complete technical teams** |
+**What It Does:**
+- 🚀 Fast, transparent, cost-effective international payments
+- 💳 C2C, B2C, B2B transaction support
+- 🔐 Crypto gateways & remittance services
+- 🏦 Digital banking solutions
+
+**Vision**: Redefine how people handle money globally through decentralized finance.
 
 ---
 
-## 🏢 Professional Background
+### **Arcane Group** | Advisor (2025 - Present)
+**Investment Firm for Natural Living & Sustainable Growth**
 
-### Technical Leadership & Entrepreneurship
-- **10+ years** of combined professional and entrepreneurial experience
-- Founded and scaled **multiple technical ventures**
-- Built and mentored **high-performing engineering teams**
-- Architected systems serving **millions of daily active users**
-- Led digital transformation initiatives for **enterprise clients**
-- Managed **P&L for tech products** generating significant revenue
+Advisory role for innovative ventures focused on:
+- 🌱 Natural living & health-focused businesses
+- ♻️ Eco-friendly & sustainable innovation
+- 💚 Holistic health solutions
+- 📈 Aligned growth with social impact
 
-### Business & Industry Expertise
-- **Financial Technology**: Crypto trading, arbitrage detection, portfolio management, DeFi
-- **SaaS & Platforms**: Multi-tenant applications, user engagement, community features, subscription models
-- **Enterprise Software**: API gateways, microservices, scalable backends, system reliability
-- **Web3 & Blockchain**: DeFi protocols, smart contracts, tokenomics, token economics
-- **Fintech & Trading**: Algorithmic trading bots, market analysis, risk management, quantitative trading
-- **Startup Operations**: Fundraising, MVP development, product-market fit, scaling strategies
+---
 
-### Entrepreneurial Achievements
-- 📱 **Built 5+ tech products** from 0 to revenue-generating
-- 💰 **Generated $500K+** in tracked business value
-- 👥 **10K+ active users** across platforms built
-- 🚀 **50+ successful project deliveries** for clients
-- 🌐 **Multi-platform presence** (SaaS, DeFi, B2B, B2C)
-- ⚡ **99.9% uptime** average across all systems
+### **AGT Venture (Ash Group of Technology)** | Board Member (2022 - Present)
+**Diversified Tech Holding Company | Backed by $115.1M Investment**
+
+Strategic board position overseeing:
+- 🔧 Multiple tech-driven business units
+- 💡 Innovation & product development
+- 🌐 Cross-sector collaboration
+- 🚀 Market expansion initiatives
+
+**Investment Backing**: Supported by **Zhou Group** capital investment ($115.1M)
+
+---
+
+### **SpudBlocks** | CEO (2018 - 2024)
+**Blockchain & Cryptocurrency Solutions Firm**
+
+**Company Mission**: Advance Web3 businesses of all scales through pioneering strategies and cutting-edge technology.
+
+**Key Achievements**:
+- ✅ Delivered 50+ successful blockchain projects
+- ✅ Helped clients exceed their Web3 objectives
+- ✅ Built industry-leading team of tech specialists
+- ✅ Established thought leadership in blockchain space
+- ✅ Founded multiple successful ventures
+
+---
+
+## 🏢 Professional Experience
+
+### **AscendEx Exchange** | Business Executive
+**Aug 2025 - Apr 2026**
+
+Drove strategic growth in world-leading cryptocurrency exchange.
+
+**Key Responsibilities & Achievements:**
+- 🤝 Developed strategic partnerships with 50+ crypto projects for exchange listings
+- 📊 Managed outreach to 100+ blockchain startups and token teams
+- 🔍 Conducted market research identifying high-potential projects
+- 📈 Coordinated listing onboarding generating 40+ new project integrations
+- 💡 Generated 100+ new partnership leads in Web3 ecosystem
+
+**Impact**: Significantly expanded exchange's token portfolio and project partnerships.
+
+---
+
+### **Tapbit Exchange** | Community & Business Development Manager
+**Jun 2023 - Aug 2025** ⭐ **Most Significant Role**
+
+Scaled global crypto exchange from startup to major player.
+
+**Community Leadership:**
+- 👥 Managed **220K+ active users** across Telegram, Discord, Twitter
+- 📱 Built engaged communities across 50+ countries
+- 🎯 Implemented community engagement strategies increasing retention by 75%
+
+**Business Development:**
+- 🤝 Built strategic partnerships with 100+ blockchain founders
+- 📋 Contributed to listing pipeline growth through strategic introductions
+- 💼 Negotiated listing terms for 60+ token projects
+- 📢 Organized marketing campaigns for 80+ project launches
+
+**Operational Impact:**
+- ✅ Increased platform user base from 50K to 220K
+- ✅ Generated $5M+ in revenue through listing fees
+- ✅ Built industry reputation for project curation
+- ✅ Established exchange as top destination for emerging projects
+
+**Testimonial**: *"Ashikur has been instrumental in scaling our exchange to serve 220K+ active community members. His strategic leadership and ability to build partnerships have been game-changing for our platform."* — Katherine, Managing Director - Tapbit
+
+---
+
+### **Hotbit Exchange** | Customer Support Manager
+**Apr 2019 - May 2023**
+
+Managed global customer operations for cryptocurrency exchange.
+
+**Leadership & Operations:**
+- 👥 Led support team handling 100,000+ monthly support tickets
+- 🎯 Maintained **95%+ customer satisfaction** rating
+- ⚡ Reduced average response time from 24hrs to 2hrs
+
+**Technical Support Expertise:**
+- 🔧 Resolved complex trading, deposit, withdrawal issues
+- 📊 Analyzed support metrics to improve processes
+- 🚀 Implemented automation reducing ticket volume by 40%
+
+**Team Development:**
+- 👨‍💼 Managed 15+ support specialists across 5 timezones
+- 📚 Implemented training programs improving resolution quality
+- 🏆 Recognized for **Customer Support Excellence** (May 2023)
+
+**Testimonial**: *"High customer satisfaction through fast issue resolution"* — Aurora Zhou, BDM - Hotbit Exchange
+
+---
+
+## 🔧 Contract-Based Projects
+
+### **Copx AI** | Web Developer & Data Analyst
+**AI-Powered Cryptocurrency Trading Platform**
+
+Machine learning trading platform with predictive analytics and DAO governance.
+
+**What I Built:**
+- 🤖 Real-time market analysis dashboards
+- 📊 ML-based trading signal generators
+- 🔌 Multi-exchange API integrations
+- 🏛️ DAO smart contracts for governance
+- 📈 Data visualization for trader insights
+
+**Recognition**: *"Recognized for AI-powered trading platform development and data analytics"* — Copx AI Award (Apr 2024)
+
+**Tech Stack**: Python, JavaScript, Machine Learning, REST APIs, Web3.js
+
+---
+
+### **MEXC Exchange** | Price Bot Developer
+**Global Cryptocurrency Exchange | 30M+ Users**
+
+Developed automated trading bots and market data systems.
+
+**Deliverables:**
+- 🤖 Real-time price tracking bots
+- 📊 Market analysis automation
+- 🔔 Alert systems for price movements
+- 💹 Technical analysis indicators
+- 📡 WebSocket integration for live data
+
+**Impact**: Improved trading experience for 30M+ users across 170+ countries
+
+**Tech Stack**: Python, JavaScript, APIs, Real-time Systems
+
+---
+
+### **Goose Finance** | Web Developer
+**DeFi Application on Binance Smart Chain**
+
+Developed high-yield yield farming platform using perpetual deflationary tokens.
+
+**Features Implemented:**
+- 🌾 Yield farming smart contracts
+- 💰 Liquidity pool management
+- 🏆 High-APR reward mechanisms
+- 🪙 Token economics optimization
+- 📊 Performance dashboards
+
+**Recognition**: Featured in DeFi ecosystem as high-yield alternative to PancakeSwap
+
+**Tech Stack**: Solidity, Smart Contracts, Node.js, React
+
+---
+
+### **ERA7: Game of Truth** | Project Manager
+**Binance Smart Chain Play-to-Earn Trading Card Game**
+
+Managed development of anime-style NFT trading card game with auto-battler mechanics.
+
+**Project Scope:**
+- 🎮 NFT card collection system
+- ⚔️ Auto-battler combat mechanics
+- 🏟️ PVP/PVE game modes
+- 💰 Dual token economy ($ERA, $GOT)
+- 🏛️ On-chain governance
+
+**Achievement**: *"Contributed to GameFi aggregator and launchpad platform development"* — GameFi Ecosystem Contribution Award (Feb 2024)
+
+**Tech Stack**: Solidity, Smart Contracts, Game Engine, Node.js
+
+---
+
+### **Kesef Finance** | Web Developer
+**Cross-Chain DeFi Yield Farming Ecosystem**
+
+Developed yield farming and liquidity provision platform.
+
+**Features Developed:**
+- 🌉 Cross-chain bridge integration
+- 🪴 Liquidity farming mechanics
+- 💳 Token staking systems
+- 💸 Cryptocurrency trading features
+- 🔐 Multi-signature security
+
+**Tech Stack**: Solidity, Ethereum, React, Node.js
+
+---
+
+### **Joker Manor** | dAPP Developer
+**GameFi Aggregator and Launchpad**
+
+Developed gaming aggregator with NFT rewards and DeFi integration.
+
+**Accomplishments:**
+- 🎮 Multi-game aggregator platform
+- 🎁 NFT reward systems
+- 💧 Liquidity mining features
+- 🌾 Yield farming integration
+- 🏆 Leaderboard & reward systems
+
+**Testimonial**: *"Working with Ashikur has been transformative for our GameFi ecosystem. His deep understanding of both business development and blockchain technology sets him apart."* — Zenne Zheng, Founder - JokerManor
+
+**Tech Stack**: Solidity, React, Node.js, Web3.js
+
+---
+
+### **Coinverse** | Web Developer
+**Web3 Creator Platform & Social CRM**
+
+Developed platform for Web3 creators to monetize communities.
+
+**Platform Features:**
+- 👥 Social CRM for creators
+- 💼 Follower-to-client conversion tools
+- 🌐 Community management tools
+- 💰 Monetization features
+- 📊 Analytics & insights
+
+**Recognition**: *"Helped develop Web3 creator platform supporting sustainable ecosystem growth"* — Web3 Creator Platform Success Award (Mar 2024)
+
+**Ecosystem**: Integrated with 5ire chain sustainability initiatives
+
+**Tech Stack**: React, Node.js, Web3.js, MongoDB
+
+---
+
+### **PlutusFi** | Operation Manager & dApp Developer
+**SocialFi Automated Trading Platform**
+
+Led operations and development of community-powered trading bot platform.
+
+**Dual Role Impact**:
+- 📊 **Operations**: Managed platform scaling from 5K to 50K users
+- 🤖 **Development**: Built core trading bot infrastructure
+
+**Key Features:**
+- 🤖 Automated trading bots for 300+ crypto assets
+- 💬 Social sentiment analysis
+- 🎯 Community-based trading signals
+- 📈 Profit optimization algorithms
+- 🌐 Multi-platform integration
+
+**Testimonial**: *"A true visionary in the Web3 space. Strategic partnerships and innovative approach have helped us achieve remarkable growth."* — Rosa Wong, Managing Director - PlutusFi
+
+**Tech Stack**: Solidity, Node.js, React, Python ML, PostgreSQL
 
 ---
 
 ## 💻 Technology Stack
 
-### **Languages & Runtimes**
-![Languages](https://skillicons.dev/icons?i=python,go,typescript,javascript,java,bash,html,css&theme=dark)
+### **Blockchain & Web3**
+![Blockchain](https://skillicons.dev/icons?i=solidity&theme=dark)
 
-| Language | Expertise | Years | Use Cases |
-|----------|-----------|-------|-----------|
-| **TypeScript** | Advanced | 6+ | Web applications, APIs, real-time systems |
-| **Python** | Expert | 7+ | Data analysis, trading bots, automation, ML |
-| **Go** | Advanced | 5+ | Microservices, APIs, high-performance systems |
-| **JavaScript** | Advanced | 6+ | Frontend, Node.js backends, full-stack |
-| **Java** | Intermediate | 4+ | Enterprise systems, Android apps |
+| Technology | Expertise | Experience |
+|-----------|-----------|------------|
+| **Solidity** | Expert | 6+ years |
+| **Smart Contracts** | Expert | ERC-20, ERC-721, ERC-1155, Custom Protocols |
+| **DeFi Protocols** | Advanced | Lending, AMM, Yield Farming, DEX, Liquidity Pools |
+| **Web3.js** | Expert | Wallet integration, Contract interaction, Event listening |
+| **Ethereum/Polygon/BSC** | Advanced | Multi-chain development & deployment |
+| **NFT Standards** | Advanced | Creation, Management, Marketplaces |
 
-### **Architecture & Backend**
-![Backend](https://skillicons.dev/icons?i=nodejs,django,flask,fastapi,express&theme=dark)
+### **Programming Languages**
+![Languages](https://skillicons.dev/icons?i=python,javascript,go,sql&theme=dark)
 
-- **Microservices Architecture** - Event-driven systems, message queues, service mesh
-- **API Design** - REST, GraphQL, gRPC, WebSocket implementations
-- **Message Brokers** - RabbitMQ, Kafka, AWS SQS/SNS
-- **API Gateways** - Load balancing, rate limiting, authentication/authorization
+| Language | Expertise | Use Cases |
+|----------|-----------|-----------|
+| **Python** | Expert | Data analysis, trading bots, automation, ML |
+| **JavaScript** | Advanced | Web development, Node.js backends, Web3 |
+| **Go** | Advanced | High-performance services, APIs |
+| **SQL** | Advanced | Database design, query optimization |
+| **Solidity** | Expert | Smart contracts, DeFi protocols |
 
-### **Databases & Data**
-![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,sqlite&theme=dark)
+### **Backend & Services**
+![Backend](https://skillicons.dev/icons?i=nodejs&theme=dark)
 
-- **Relational**: PostgreSQL, MySQL, SQLite (Schema design, query optimization, replication)
-- **NoSQL**: MongoDB, Firebase (Document design, indexing, sharding)
-- **Caching**: Redis, Memcached (Session management, rate limiting, real-time features)
-- **Data Engineering**: ETL pipelines, analytics, data warehousing, business intelligence
+- **Node.js** - REST APIs, GraphQL, real-time systems
+- **REST APIs** - Microservices, exchange integrations
+- **GraphQL** - Efficient data querying
+- **Message Queues** - RabbitMQ, Kafka for real-time data
+- **WebSocket** - Live market data streaming
 
-### **Frontend & UI**
-![Frontend](https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap&theme=dark)
+### **Cloud & DevOps**
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,git&theme=dark)
 
-- **React** - Component architecture, state management, performance optimization
-- **Vue.js** - Composition API, Vuex, SSR
-- **Modern CSS** - Tailwind, SCSS, responsive design, UX optimization
-- **Build Tools** - Webpack, Vite, Next.js, Nuxt
+- **AWS** - EC2, S3, Lambda, RDS, CloudWatch
+- **Google Cloud** - Compute Engine, Cloud Storage, Functions
+- **Docker** - Containerization, multi-stage builds
+- **GitHub/Git** - Version control, CI/CD pipelines
 
-### **Cloud & Infrastructure**
-![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,linux&theme=dark)
+### **Databases**
+- **PostgreSQL** - Relational data, complex queries
+- **MongoDB** - Document storage, NoSQL scaling
+- **Redis** - Caching, real-time data
+- **SQLite** - Lightweight applications
 
-| Platform | Services | Expertise |
-|----------|----------|-----------|
-| **AWS** | EC2, S3, Lambda, RDS, CloudFront, SQS, SNS, CloudWatch | Expert |
-| **GCP** | Compute Engine, Cloud Storage, Datastore, Cloud Functions | Advanced |
-| **Kubernetes** | Clustering, Helm, YAML manifests, Auto-scaling | Advanced |
-| **Docker** | Containerization, multi-stage builds, Docker Compose | Expert |
+---
+
+## 📊 Business Development & Community Management
+
+### **Strategic Partnerships**: 250+ Projects
+- Cryptocurrency exchanges (10+ major exchanges)
+- Blockchain startups & protocols (100+)
+- DeFi platforms & applications (50+)
+- Gaming & NFT projects (40+)
+- Web3 infrastructure providers (50+)
+
+### **Community Growth**
+- **220K+** active users managed
+- **5+** global community platforms (Telegram, Discord, Twitter, WeChat, Reddit)
+- **95%+** user retention rate maintained
+- **75%** engagement increase through strategic initiatives
+
+### **Listing Pipeline & Partnerships**
+- **60+** successful token listings facilitated
+- **100+** blockchain founder relationships established
+- **$5M+** in listing fee revenue generated
+- **80+** project launch campaigns managed
+
+---
+
+## 🎓 Core Competencies
+
+### **Business & Strategy**
+- 📊 Business Strategy & Growth Planning
+- 🎯 Sales Leadership & Funnel Management
+- 🤝 Strategic Partnerships & Negotiation
+- 💰 Financial Forecasting & Revenue Modeling
+- 📈 Market Analysis & Opportunity Identification
+- 🏢 Operations Management & Scaling
+- 👥 Team Leadership & Development
 
 ### **Blockchain & Web3**
-- **Smart Contracts**: Solidity, Hardhat, Truffle, ERC-20/721/1155
-- **Networks**: Ethereum, Polygon, BSC, Arbitrum
-- **Protocols**: DeFi, lending, AMM, yield farming, tokenomics
-- **Wallets**: MetaMask, Web3.js, Ethers.js integration
-- **Trading**: DEX integration, automated market makers, liquidity pools
+- ⛓️ Smart Contract Development & Auditing
+- 🌐 DeFi Protocol Development & Optimization
+- 🎮 GameFi & NFT Ecosystem Development
+- 💳 Wallet Integration & Crypto Payment Systems
+- 📊 Blockchain Data Analysis
+- 🔐 Security Best Practices
 
-### **AI & Machine Learning**
-- **Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras
-- **NLP**: BERT, GPT, text classification, sentiment analysis
-- **Computer Vision**: OpenCV, image processing, object detection
-- **MLOps**: Model training, deployment, monitoring, A/B testing, model optimization
+### **Technical Expertise**
+- 🔧 Full-Stack Development (Frontend + Backend)
+- 📱 dAPP Development & Smart Contract Integration
+- 🤖 API Development & Integration
+- 📡 Real-time System Architecture
+- 🚀 System Scaling & Optimization
+- 🔍 Data Analysis & Insights
 
----
-
-## 📊 Development Metrics
-
-### Code Contribution Statistics
-```
-Total Development Hours    :  16,000+ hours
-Average Daily Commits      :  5-8 commits
-Pull Requests Created      :  500+ PRs
-Code Reviews Conducted     :  1,000+ reviews
-Bug Fixes Deployed         :  2,000+ fixes
-Features Released          :  500+ features
-```
-
-### Language Proficiency Breakdown
-```
-TypeScript    6,141 hrs  ████████████░░░░░░░░░░░░░░░░░░░  38.99%
-Python        4,955 hrs  ██████████░░░░░░░░░░░░░░░░░░░░░  31.46%
-Go            3,035 hrs  ██████░░░░░░░░░░░░░░░░░░░░░░░░░  19.27%
-JavaScript      631 hrs  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4.01%
-Java            507 hrs  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3.22%
-Bash            481 hrs  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3.04%
-```
-
----
-
-## 🏆 Featured Projects
-
-### 1. **API Gateway Architecture** | Production Grade | Enterprise Solution
-**Repository**: [API-Gateway](https://github.com/Ashikurrahaman287/API-Gateway)
-
-A high-performance microservices API gateway handling **1M+ requests/day** for enterprise clients.
-
-**Business Problem Solved:**
-- Needed centralized access control for 10+ microservices
-- Required rate limiting to prevent abuse
-- Needed request/response caching to reduce latency
-
-**Key Technical Features:**
-- Load balancing with health checks
-- JWT authentication & authorization
-- Rate limiting & throttling
-- Request/response caching layer
-- Comprehensive logging & monitoring
-- Sub-50ms average latency
-
-**Business Results:**
-- ✅ Reduced infrastructure costs by **40%**
-- ✅ Improved API response time by **60%**
-- ✅ Enabled 10+ microservices to scale independently
-- ✅ Prevented abuse with intelligent rate limiting
-
-**Tech Stack**: Go, REST API, Redis, PostgreSQL, Docker, Kubernetes
-
----
-
-### 2. **Real-Time Arbitrage Detection System** | DeFi Application | Revenue Generator
-**Repository**: [ArbitrageTracker](https://github.com/Ashikurrahaman287/ArbitrageTracker)
-
-Autonomous system for detecting and executing **cryptocurrency arbitrage opportunities** across multiple exchanges in real-time.
-
-**Business Model:**
-- Tracks arbitrage opportunities
-- Executes trades automatically
-- Generates profit from price discrepancies
-- Manages risk with smart algorithms
-
-**Key Technical Features:**
-- Multi-exchange price aggregation (5+ exchanges)
-- Real-time opportunity detection
-- Automated trade execution with sub-100ms latency
-- Portfolio tracking & advanced analytics
-- Risk management & position sizing algorithms
-- Real-time alerts & notifications
-
-**Business Results:**
-- ✅ **$500K+** cumulative profit tracking
-- ✅ **99.9% uptime** maintained
-- ✅ **1000+ successful transactions** executed
-- ✅ Proven revenue model for crypto trading
-
-**Tech Stack**: TypeScript, Node.js, WebSocket APIs, MongoDB, Redis, AWS Lambda
-
----
-
-### 3. **Personal Transformation Platform** | SaaS Product | Community App
-**Repository**: [Arcane-Arc](https://github.com/Ashikurrahaman287/Arcane-Arc)
-
-Community-driven platform for **personal development** with gamification, goal tracking, and social engagement features.
-
-**Business Model:**
-- Freemium subscription model
-- Premium challenge creation
-- Community engagement features
-- Leaderboards & achievements
-- In-app monetization
-
-**Key Technical Features:**
-- Secure user authentication & authorization
-- Challenge creation & participation system
-- Daily reflection & journaling capabilities
-- Real-time leaderboards & achievement system
-- Push notifications & real-time updates
-- Social sharing & viral growth mechanics
-
-**Business Results:**
-- ✅ **10K+ active users** acquired
-- ✅ **95% user retention rate** (exceptional)
-- ✅ **Viral growth** through social features
-- ✅ **Community-driven** engagement model
-
-**Tech Stack**: TypeScript, React, Node.js, MongoDB, AWS, Stripe (payments)
-
----
-
-### 4. **Bitcoin Wallet System** | Blockchain Application | Fintech
-**Repository**: [AshX-Wallet](https://github.com/Ashikurrahaman287/AshX-Wallet)
-
-Production-grade cryptocurrency wallet with **secure transaction management** on Bitcoin testnet.
-
-**Business Problem Solved:**
-- Need for secure wallet management
-- Transaction tracking & analytics
-- User-friendly crypto interface
-
-**Key Technical Features:**
-- HD wallet with BIP32/BIP44 support
-- Secure private key management (encryption)
-- Transaction building & broadcasting
-- Address generation & balance checking
-- Multi-signature support for security
-- Transaction history & advanced analytics
-- Cold/hot wallet separation
-
-**Business Results:**
-- ✅ **Processed 1000+ transactions** securely
-- ✅ **Zero security breaches**
-- ✅ Proven blockchain integration
-- ✅ Enterprise-grade wallet solution
-
-**Tech Stack**: Python, Bitcoin Core API, SQLite, Advanced Cryptography Libraries
-
----
-
-## 💼 Professional Services & Offerings
-
-### 🏗️ Architecture & Consulting
-- Enterprise system design & architecture reviews
-- Microservices strategy & implementation planning
-- Cloud migration & optimization strategies
-- Performance optimization & scalability audits
-- Security hardening & compliance assessments
-- **Business Model Consulting** - Tech product strategy, revenue models
-
-### 🔧 Full-Stack Development
-- Custom web & mobile applications
-- REST & GraphQL API development
-- Real-time systems & WebSocket implementations
-- Database optimization & design
-- Frontend & backend integration
-- **Startup MVP Development** - Fast, efficient product development
-
-### ⛓️ Blockchain & Web3 Development
-- Smart contract development & security audits
-- DeFi protocol implementation & optimization
-- Wallet & exchange integration
-- NFT platform development & management
-- Tokenomics consulting & token design
-- **Crypto Business Strategy** - Market analysis, competitive positioning
-
-### 🤖 AI/ML Solutions
-- Machine learning model development & training
-- NLP & chatbot implementation
-- Predictive analytics & forecasting systems
-- Computer vision applications
-- MLOps & deployment pipelines
-- **Business Analytics** - Data-driven decision making
-
-### ☁️ DevOps & Infrastructure
-- Kubernetes cluster setup & management
-- CI/CD pipeline implementation & optimization
-- Infrastructure as Code (Terraform, CloudFormation)
-- Monitoring & alerting systems
-- Security & compliance implementation
-- **Cost Optimization** - Reducing cloud infrastructure costs
-
-### 📊 Business & Product Strategy
-- Tech product strategy & market analysis
-- Startup go-to-market planning
-- Revenue model design & implementation
-- Business case development
-- Scalability planning for growth
-- **Team & Operations** - Building technical teams, process optimization
+### **Leadership & Operations**
+- 👨‍💼 Team Building & Management
+- 📊 P&L Management
+- 🎯 Community Leadership & Engagement
+- 🤝 Stakeholder Relations
+- 📈 Growth & Scaling Strategy
+- 🎓 Mentoring & Development
 
 ---
 
@@ -360,117 +444,159 @@ Production-grade cryptocurrency wallet with **secure transaction management** on
 
 ---
 
-## 🎓 Certifications & Credentials
+## 🏆 Awards & Recognition
 
-### Cloud Certifications
-- ☁️ AWS Solutions Architect
-- ☁️ Google Cloud Professional Engineer
-- ☁️ Kubernetes Administrator (CKA)
+### **2025**
+- 🌟 **AscendEx Business Growth Award** - Strategic partnerships driving exchange expansion
 
-### Blockchain & Web3
-- ⛓️ Smart Contract Developer (Solidity)
-- ⛓️ DeFi Protocol Specialist
-- ⛓️ Web3 Architecture Specialist
+### **2024**
+- 🏅 **Blockchain Innovation Recognition** - Copx AI, AI-powered trading platform development (Apr 2024)
+- 📱 **Community Leadership Excellence** - Tapbit Exchange, 220K+ user community management (Aug 2024)
+- 🎮 **GameFi Ecosystem Contribution** - JokerManor, aggregator platform development (Feb 2024)
+- 🌐 **Web3 Creator Platform Success** - Coinverse, sustainable ecosystem growth (Mar 2024)
+- 🏛️ **Strategic Partnership Growth** - Tapbit Exchange, 60+ project listings facilitated (Jul 2024)
 
-### Software Engineering
-- 🏗️ Full-Stack Developer
-- 🔐 Security & DevOps Specialist
-- 📊 Data Engineering Specialist
-
-### Business & Entrepreneurship
-- 📚 BBA - East West University
-- 💼 Business Strategy & Operations
-- 🚀 Startup & Product Development
-- 📈 Financial Management & Analysis
+### **2023**
+- 🎖️ **Customer Support Excellence** - Hotbit Exchange, 95%+ satisfaction maintained (May 2023)
 
 ---
 
-## 💡 Core Competencies Matrix
+## 💬 Professional Testimonials
 
-### Technical Excellence
-- **Performance Optimization**: Achieved 60% reduction in API latency
-- **Scalability**: Designed systems handling 1M+ daily requests
-- **Security**: Implemented end-to-end encryption & zero-trust architecture
-- **Code Quality**: Maintained 95%+ test coverage with SOLID principles
+> *"Ashikur has been instrumental in scaling our exchange to serve 220K+ active community members. His strategic leadership and ability to build partnerships have been game-changing for our platform."*
+> 
+> — **Katherine** | Managing Director - Tapbit Exchange
 
-### Business Acumen
-- **Strategic Planning**: Business model design, market analysis
-- **Financial Management**: Revenue optimization, P&L management
-- **Entrepreneurship**: 0→1 product development, startup scaling
-- **Operations**: Team management, process optimization, scaling strategies
+> *"Ashikur has an exceptional ability to identify blockchain opportunities and turn them into sustainable business growth. His strategic vision in Web3 is truly remarkable."*
+> 
+> — **Anndy Lian** | Chairman - INB Blockchain
 
-### Hybrid Expertise
-- 🎯 **Tech Entrepreneurship** - Build products people want to pay for
-- 💰 **Revenue Engineering** - Design sustainable business models
-- 📊 **Data-Driven Decisions** - Combine metrics with technical insights
-- 🚀 **Scalable Growth** - Technical infrastructure + business strategy
-- 🤝 **Team Leadership** - Technical & business acumen combined
+> *"Working with Ashikur has been transformative for our GameFi ecosystem. His deep understanding of both business development and blockchain technology sets him apart in the industry."*
+> 
+> — **Zenne Zheng** | Founder - JokerManor
+
+> *"Ashikur brings a unique combination of technical expertise and business acumen. His contributions to our blockchain projects have been invaluable and consistently exceed expectations."*
+> 
+> — **Aurora Zhou** | BDM - Hotbit Exchange
+
+> *"A true visionary in the Web3 space. Ashikur's strategic partnerships and innovative approach to business development have helped us achieve remarkable growth in competitive markets."*
+> 
+> — **Rosa Wong** | Managing Director - PlutusFi
+
+> *"Ashikur's expertise in blockchain solutions and his proactive approach to problem-solving make him an outstanding leader. His work has significantly impacted our venture's success."*
+> 
+> — **Yvonne Wong** | Managing Director - AscendEX
 
 ---
 
-## 🌐 Professional & Social Links
+## 🌐 Trusted By Industry Leaders
 
 <div align="center">
 
-| Platform | Link | Purpose |
-|----------|------|---------|
-| **LinkedIn** | [ashik-the-knight](https://www.linkedin.com/in/ashik-the-knight/) | Professional network & opportunities |
-| **GitHub** | [@Ashikurrahaman287](https://github.com/Ashikurrahaman287) | Code & projects |
-| **Portfolio** | [ashik.spudblocks.com](https://ashik.spudblocks.com) | Complete work showcase |
-| **Email** | [ashikweb3.o@gmail.com](mailto:ashikweb3.o@gmail.com) | Professional inquiries |
-| **WhatsApp** | [+880 1336-176841](https://wa.me/8801336176841) | Quick conversations |
+### Major Exchanges & Platforms
+
+![Hotbit](https://img.shields.io/badge/Hotbit-Exchange-blue?style=flat-square)
+![Tapbit](https://img.shields.io/badge/Tapbit-Exchange-blue?style=flat-square)
+![MEXC](https://img.shields.io/badge/MEXC-Exchange-blue?style=flat-square)
+![AscendEx](https://img.shields.io/badge/AscendEX-Exchange-blue?style=flat-square)
+
+### Blockchain Projects & Protocols
+
+![Copx AI](https://img.shields.io/badge/Copx%20AI-Trading-purple?style=flat-square)
+![Goose Finance](https://img.shields.io/badge/Goose%20Finance-DeFi-purple?style=flat-square)
+![Kesef Finance](https://img.shields.io/badge/Kesef%20Finance-DeFi-purple?style=flat-square)
+![Joker Manor](https://img.shields.io/badge/Joker%20Manor-GameFi-purple?style=flat-square)
+
+### Web3 & Creator Platforms
+
+![Coinverse](https://img.shields.io/badge/Coinverse-Creator%20Platform-orange?style=flat-square)
+![PlutusFi](https://img.shields.io/badge/PlutusFi-SocialFi-orange?style=flat-square)
+![ERA7](https://img.shields.io/badge/ERA7-GameFi-orange?style=flat-square)
 
 </div>
 
 ---
 
-## 📬 Let's Connect & Collaborate
+## 🎯 Unique Value Proposition
 
-I'm actively looking for **exciting opportunities** in:
+### **The Web3 Entrepreneur Advantage**
+I uniquely combine three critical skill sets:
 
-### 🎯 For Enterprises
-- ✅ Senior Software Engineering roles
-- ✅ Technical Leadership & CTO positions
-- ✅ Enterprise architecture consulting
-- ✅ Digital transformation initiatives
+| Dimension | Unique Strength | Impact |
+|-----------|-----------------|--------|
+| **Business** | BBA + 10 years entrepreneurial experience | Build profitable Web3 ecosystems |
+| **Technical** | 7+ years blockchain engineering | Implement solutions properly |
+| **Community** | 220K+ users managed | Scale through engagement |
 
-### 🚀 For Startups
-- ✅ Co-founder & technical leadership roles
-- ✅ CTO positions with equity opportunities
-- ✅ MVP development & product validation
-- ✅ Technical strategy & scaling guidance
-
-### 🌐 For Web3 & Blockchain
-- ✅ DeFi protocol development
-- ✅ Blockchain infrastructure projects
-- ✅ Tokenomics & smart contract auditing
-- ✅ Web3 product development
-
-### 💼 For Consulting & Advisory
-- ✅ Technical architecture consulting
-- ✅ Business model & strategy consulting
-- ✅ Mentorship & knowledge sharing
-- ✅ Speaking engagements & tech talks
-
-**Feel free to reach out!** I'm open to discussions about:
-- Technical architecture & system design
-- Business strategy & product development
-- Partnership & collaboration opportunities
-- Mentorship & knowledge sharing
-- Speaking engagements on tech & entrepreneurship
+### **Why Companies Hire Me**
+✅ **Complete Understanding** - I speak both engineering and business  
+✅ **Track Record** - $87M+ VC backing, 220K+ users, 50+ projects  
+✅ **End-to-End** - From strategy to execution to scaling  
+✅ **Risk Mitigation** - Business acumen prevents costly technical mistakes  
+✅ **Growth Catalyst** - Combine technical excellence with business strategy  
 
 ---
 
-## 📊 Profile Analytics
+## 📬 Professional Opportunities
+
+### **Looking For:**
+
+#### 🏢 **Enterprise & Corporate**
+- Web3 Strategy & Leadership roles
+- Chief Technology Officer (CTO) positions
+- Head of Blockchain Development
+- Business Development Executive roles
+
+#### 🚀 **Startups & Ventures**
+- Co-founder positions (preferably equity-based)
+- Technical founding team roles
+- Series A/B technical leadership
+- Scale-up technical strategy
+
+#### 🌐 **Web3 Ecosystem**
+- DeFi Protocol development leadership
+- Exchange & trading platform roles
+- GameFi/NFT platform development
+- Blockchain infrastructure projects
+
+#### 💼 **Consulting & Advisory**
+- Web3 business strategy consulting
+- Technical architecture advisory
+- Blockchain ecosystem development
+- Due diligence & project evaluation
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Ashikurrahaman287&label=Profile%20Views&color=00FF7F&icon=5&pretty=true)](https://visitcount.itsvg.in)
+| Channel | Details |
+|---------|---------|
+| **Email** | [ashikweb3.o@gmail.com](mailto:ashikweb3.o@gmail.com) |
+| **Phone** | [+880 1619-617036](tel:+8801619617036) |
+| **WhatsApp** | [+880 1336-176841](https://wa.me/8801336176841) |
+| **LinkedIn** | [Ashikur Rahaman](https://www.linkedin.com/in/ashik-the-knight/) |
+| **GitHub** | [@Ashikurrahaman287](https://github.com/Ashikurrahaman287) |
+| **Portfolio** | [ashik.spudblocks.com](https://ashik.spudblocks.com) |
 
-![Repositories](https://img.shields.io/badge/Active%20Repositories-50%2B-00FF7F?style=flat-square)
-![Code Lines](https://img.shields.io/badge/Lines%20of%20Code-100K%2B-orange?style=flat-square)
-![Commits](https://img.shields.io/badge/Annual%20Commits-500%2B-brightgreen?style=flat-square)
-![Products](https://img.shields.io/badge/Products%20Built-5%2B-blueviolet?style=flat-square)
+**Availability**: 🟢 Open for Strategic Opportunities  
+**Timezone**: GMT+6 (Bangladesh Standard Time)
+
+</div>
+
+---
+
+## 📊 Key Metrics Summary
+
+<div align="center">
+
+![Years Experience](https://img.shields.io/badge/Years%20Experience-7%2B-00FF7F?style=for-the-badge)
+![VC Backing](https://img.shields.io/badge/VC%20Backing-%2487M%2B-blue?style=for-the-badge)
+![Active Users](https://img.shields.io/badge/Active%20Users-15M%2B-brightgreen?style=for-the-badge)
+![Communities](https://img.shields.io/badge/Communities%20Managed-220K%2B-purple?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects%20Delivered-50%2B-orange?style=for-the-badge)
+![Partnerships](https://img.shields.io/badge/Strategic%20Partnerships-250%2B-red?style=for-the-badge)
 
 </div>
 
@@ -478,66 +604,65 @@ I'm actively looking for **exciting opportunities** in:
 
 ## 🚀 Current Focus Areas
 
-- 🔬 **Advanced AI/ML**: Building next-gen AI applications with LLMs
-- 🌐 **Web3 Scaling**: Layer 2 solutions and blockchain interoperability
-- 📱 **Real-time Systems**: Ultra-low latency distributed systems
-- 💰 **FinTech Innovation**: Building profitable trading & financial systems
-- 🔐 **Enterprise Security**: Zero-trust architecture and advanced cryptography
-- 🤝 **Startup Ecosystem**: Building & mentoring tech entrepreneurs
+- 🌍 **Building the Future of FinTech** - SpudPay expansion globally
+- ⛓️ **Web3 Ecosystem Development** - Strategic partnerships & growth
+- 🤖 **AI-Powered Trading** - Next-gen algorithmic solutions
+- 🎮 **GameFi Innovation** - Play-to-earn ecosystem development
+- 💰 **DeFi Protocols** - Sustainable yield farming solutions
+- 🔐 **Blockchain Security** - Enhanced smart contract auditing
+- 📚 **Knowledge Sharing** - Mentoring next-gen Web3 entrepreneurs
 
 ---
 
-## 🎬 How I Work
+## 💡 Philosophy & Approach
 
-### My Unique Approach
-1. **Understand the Problem** - Deeply analyze business needs & market dynamics
-2. **Design the Solution** - Architecture that balances tech quality & business ROI
-3. **Build Efficiently** - Quick iterations, MVP mindset, fail fast
-4. **Optimize Relentlessly** - Performance, cost, security, user experience
-5. **Scale Sustainably** - Build for growth with operational excellence
+> *"The future of finance is decentralized. My mission is to build the infrastructure, partnerships, and communities that make Web3 mainstream. Every project is an opportunity to advance the entire ecosystem."*
 
-### My Philosophy
-> *"The best technology is invisible—it solves real business problems efficiently while enabling sustainable growth."*
-
----
-
-## 💬 Testimonials & Social Proof
-
-> *"Ashik's technical expertise combined with business understanding transformed our system. He doesn't just code—he thinks like an entrepreneur."* 
-> — Enterprise Client
-
-> *"One of the most skilled engineers I've worked with. His code quality is exceptional, and he understands both technical and business implications."*
-> — Technical Lead
-
-> *"Ashik built our MVP from scratch in record time. His understanding of business strategy helped us make the right technical decisions."*
-> — Startup Founder
+### **My Working Principles**
+- 🎯 **Results-Driven**: Measure success by real-world impact
+- 🤝 **Collaborative**: Strong partnerships create exponential growth
+- 🚀 **Scalable**: Build for 100x growth, not incremental progress
+- 🔐 **Secure**: Security is non-negotiable in blockchain
+- 📊 **Data-Informed**: Decisions backed by analytics & insights
+- ♻️ **Sustainable**: Build for long-term value, not quick exits
 
 ---
 
 <div align="center">
 
-### 🎯 Building the Future of Tech, One Product at a Time
+### 🌟 Pioneering the Future of FinTech & Web3
 
-**Consulting Available** | **Open for Collaboration** | **Ready for New Challenges**
-
----
-
-**Education**: BBA from East West University | **Experience**: 7+ Years Technical + 10+ Years Entrepreneurial  
-**Profile Status**: ⚡ Active Developer & Entrepreneur | **Availability**: 🟢 Open for Strategic Opportunities
+**Combining business strategy, blockchain technology, and community building to create sustainable Web3 ecosystems.**
 
 ---
 
-**Passion**: Merging business acumen with technical excellence to build scalable, profitable tech solutions  
-**Goal**: Creating products that solve real problems and generate real impact
+**Status**: 🟢 Active Entrepreneur & Technical Leader  
+**Last Updated**: May 2026  
+**Open For**: Strategic Partnerships, Leadership Roles, Consulting
+
+---
+
+[![Made with Passion](https://img.shields.io/badge/Made%20with%20Passion%20by-Ashikur%20Rahaman-00FF7F?style=flat-square)](https://github.com/Ashikurrahaman287)
+
+**Building the decentralized economy, one partnership at a time 🚀**
 
 </div>
 
 ---
 
+## 📜 Additional Resources
+
+- **Portfolio Website**: [ashik.spudblocks.com](https://ashik.spudblocks.com) - Complete work showcase
+- **GitHub Repositories**: [50+ open-source & commercial projects](https://github.com/Ashikurrahaman287?tab=repositories)
+- **LinkedIn Profile**: [Professional network & endorsements](https://www.linkedin.com/in/ashik-the-knight/)
+- **Case Studies**: Available upon request
+
+---
+
 <div align="center">
 
-[![Made with Passion](https://img.shields.io/badge/Made%20with%20Passion%20by-Ashikur%20Rahaman-00FF7F?style=flat-square)](https://github.com/Ashikurrahaman287)
+**© 2018-2026 Ashikur Rahaman. All Rights Reserved.**
 
-**Let's build something amazing together! 🚀**
+*Pioneering the Future of FinTech & Web3*
 
 </div>
