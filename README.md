@@ -10,6 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ashik.spudblocks.com-00FF7F?style=for-the-badge&logo=globe&logoColor=white)](https://ashik.spudblocks.com)
 [![Email](https://img.shields.io/badge/Email-ashikweb3.o@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashikweb3.o@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B880%201336--176841-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801336176841)
+[![Phone](https://img.shields.io/badge/Phone-%2B880%201619--617036-4A90E2?style=for-the-badge&logo=phone&logoColor=white)](tel:+8801619617036)
 
 </div>
 
@@ -42,134 +43,156 @@ I am a **results-driven Web3 Business Development Executive** and **Full-Stack B
 - Leadership & Organizational Development
 - Entrepreneurship & Venture Development
 
-**Real-World Application**: Launched and scaled multiple Web3 ventures, managed $87M+ in VC backing, built communities of 220K+ users, and led teams across global cryptocurrency exchanges.
+**Real-World Application**: Founded and scaled multiple Web3 ventures, managed $87M+ in VC backing, built communities of 220K+ users, and led teams across global cryptocurrency exchanges.
 
 ---
 
-## 💼 Current Leadership Positions
+## 🎯 Current Focus & Availability
 
-### **SpudPay** | Founder (2025 - Present)
-**Blockchain-based Mobile Financial Service (MFS)**
+### **PRIMARY FOCUS: SpudPay** 🚀
+**Status**: Full-Time Founder (100% Commitment)
 
-Revolutionary platform leveraging blockchain to facilitate seamless cross-border transactions.
+**Role**: Founder & CEO  
+**Start Date**: 2025 - Present  
+**Commitment Level**: 100%
 
-**What It Does:**
-- 🚀 Fast, transparent, cost-effective international payments
-- 💳 C2C, B2C, B2B transaction support
-- 🔐 Crypto gateways & remittance services
+**What We're Building**:
+- 💳 Blockchain-based Mobile Financial Service (MFS)
+- 🌍 Seamless cross-border payment solutions
+- 🔐 Fast, transparent, cost-effective international transactions
+- 💰 C2C, B2C, B2B transaction support
+- 🪙 Crypto gateways & remittance services
 - 🏦 Digital banking solutions
 
-**Vision**: Redefine how people handle money globally through decentralized finance.
+**Vision**: Redefine how people handle money globally through decentralized finance
+
+**Current Status**: Active fundraising, building MVP, expanding team
 
 ---
 
-### **Arcane Group** | Advisor (2025 - Present)
-**Investment Firm for Natural Living & Sustainable Growth**
+### **SECONDARY ROLES: Advisory & Board**
 
-Advisory role for innovative ventures focused on:
-- 🌱 Natural living & health-focused businesses
-- ♻️ Eco-friendly & sustainable innovation
-- 💚 Holistic health solutions
-- 📈 Aligned growth with social impact
+#### **Ash Group of Technology (AGT Venture)** | Board Member
+**Status**: Advisory (5-10% time allocation)  
+**Type**: Quarterly board reviews & strategic guidance  
+**Backing**: $115.1M investment from Zhou Group
 
----
+#### **Arcane Group** | Advisor
+**Status**: Advisory (5% time allocation)  
+**Type**: Deal evaluation & strategic partnerships  
+**Focus**: Sustainable growth, natural living businesses
 
-### **AGT Venture (Ash Group of Technology)** | Board Member (2022 - Present)
-**Diversified Tech Holding Company | Backed by $115.1M Investment**
-
-Strategic board position overseeing:
-- 🔧 Multiple tech-driven business units
-- 💡 Innovation & product development
-- 🌐 Cross-sector collaboration
-- 🚀 Market expansion initiatives
-
-**Investment Backing**: Supported by **Zhou Group** capital investment ($115.1M)
+#### **SpudBlocks** | CEO & Founder
+**Status**: Founder/Advisory Role (5% time allocation)  
+**Legacy Company**: Successfully scaled multiple blockchain projects  
+**Current Role**: Transitioning to advisory as SpudPay takes focus
 
 ---
 
-### **SpudBlocks** | CEO (2018 - Present)
-**Blockchain & Cryptocurrency Solutions Firm**
+## 📋 Employment & Role Structure
 
-**Company Mission**: Advance Web3 businesses of all scales through pioneering strategies and cutting-edge technology.
-
-**Key Achievements**:
-- ✅ Delivered 50+ successful blockchain projects
-- ✅ Helped clients exceed their Web3 objectives
-- ✅ Built industry-leading team of tech specialists
-- ✅ Established thought leadership in blockchain space
-- ✅ Founded multiple successful ventures
-
----
-
-## 🏢 Professional Experience
-
-### **AscendEx Exchange** | Business Executive
-**Aug 2025 - Apr 2026**
-
-Drove strategic growth in world-leading cryptocurrency exchange.
-
-**Key Responsibilities & Achievements:**
-- 🤝 Developed strategic partnerships with 50+ crypto projects for exchange listings
-- 📊 Managed outreach to 100+ blockchain startups and token teams
-- 🔍 Conducted market research identifying high-potential projects
-- 📈 Coordinated listing onboarding generating 40+ new project integrations
-- 💡 Generated 100+ new partnership leads in Web3 ecosystem
-
-**Impact**: Significantly expanded exchange's token portfolio and project partnerships.
+| Role | Company | Type | Status | Time | Dates |
+|------|---------|------|--------|------|-------|
+| **Founder & CEO** | SpudPay | Full-Time | Active | 100% | 2025 - Present |
+| **Board Member** | AGT Venture | Advisory | Active | 5-10% | 2022 - Present |
+| **Advisor** | Arcane Group | Advisory | Active | 5% | 2025 - Present |
+| **Founder & CEO** | SpudBlocks | Founder | Semi-Active | 5% | 2018 - Present |
+| **Business Executive** | AscendEx | Contract | Completed | - | Aug 2025 - Apr 2026 |
+| **Comm. & BD Manager** | Tapbit Exchange | Full-Time | Completed | - | Jun 2023 - Aug 2025 |
+| **Customer Support Mgr** | Hotbit Exchange | Full-Time | Completed* | - | Apr 2019 - May 2023 |
 
 ---
 
-### **Tapbit Exchange** | Community & Business Development Manager
-**Jun 2023 - Aug 2025** ⭐ **Most Significant Role**
+## 💼 Career Progression & Departure Reasons
 
-Scaled global crypto exchange from startup to major player.
-
-**Community Leadership:**
-- 👥 Managed **220K+ active users** across Telegram, Discord, Twitter
-- 📱 Built engaged communities across 50+ countries
-- 🎯 Implemented community engagement strategies increasing retention by 75%
-
-**Business Development:**
-- 🤝 Built strategic partnerships with 100+ blockchain founders
-- 📋 Contributed to listing pipeline growth through strategic introductions
-- 💼 Negotiated listing terms for 60+ token projects
-- 📢 Organized marketing campaigns for 80+ project launches
-
-**Operational Impact:**
-- ✅ Increased platform user base from 50K to 220K
-- ✅ Generated $5M+ in revenue through listing fees
-- ✅ Built industry reputation for project curation
-- ✅ Established exchange as top destination for emerging projects
-
-**Testimonial**: *"Ashikur has been instrumental in scaling our exchange to serve 220K+ active community members. His strategic leadership and ability to build partnerships have been game-changing for our platform."* — Katherine, Managing Director - Tapbit
+### **Current Position: SpudPay Founder (2025 - Present)** 🚀
+**Status**: Fully focused on building my own blockchain fintech venture  
+**Commitment**: 100% of my time and energy  
+**What I'm Building**: Revolutionary mobile financial services leveraging blockchain technology
 
 ---
 
-### **Hotbit Exchange** | Customer Support Manager
-**Apr 2019 - May 2023**
+### **Previous Role: AscendEx (Aug 2025 - Apr 2026)** 📋
+**Position**: Business Executive  
+**Contract Type**: Strategic consulting engagement
 
-Managed global customer operations for cryptocurrency exchange.
+**Why I Left**: 
+- ✅ Completed contract mandate successfully
+- ✅ Developed 50+ strategic partnerships for exchange
+- ✅ Generated 100+ partnership leads in crypto ecosystem
+- ✅ Decision to dedicate 100% focus to SpudPay (own venture)
+- ✅ Optimal timing to transition from consulting to full-time founder mode
 
-**Leadership & Operations:**
-- 👥 Led support team handling 100,000+ monthly support tickets
-- 🎯 Maintained **95%+ customer satisfaction** rating
-- ⚡ Reduced average response time from 24hrs to 2hrs
-
-**Technical Support Expertise:**
-- 🔧 Resolved complex trading, deposit, withdrawal issues
-- 📊 Analyzed support metrics to improve processes
-- 🚀 Implemented automation reducing ticket volume by 40%
-
-**Team Development:**
-- 👨‍💼 Managed 15+ support specialists across 5 timezones
-- 📚 Implemented training programs improving resolution quality
-- 🏆 Recognized for **Customer Support Excellence** (May 2023)
-
-**Testimonial**: *"High customer satisfaction through fast issue resolution"* — Aurora Zhou, BDM - Hotbit Exchange
+**Key Achievements**: 
+- Successfully developed strategic partnerships with 50+ crypto projects
+- Managed outreach to 100+ blockchain startups and token teams
+- Generated 100+ new partnership opportunities in Web3 ecosystem
 
 ---
 
-## 🔧 Contract-Based Projects
+### **Previous Role: Tapbit Exchange (Jun 2023 - Aug 2025)** 📋
+**Position**: Community & Business Development Manager  
+**Achievement**: Scaled platform from 50K to 220K+ users  
+
+**Why I Left**:
+- ✅ Successfully completed mandate—scaled community 4.4x (50K → 220K users)
+- ✅ Generated $5M+ in listing revenue through strategic partnerships
+- ✅ Built relationships with 100+ blockchain projects (250+ total partnerships)
+- ✅ Identified SpudPay opportunity—blockchain-based fintech vision
+- ✅ Strategic decision to pivot from scaling others' companies to building own vision
+- ✅ Right time to launch own startup (Tapbit had reached new level of success)
+
+**Key Achievements**: 
+- ✅ Grew community 4.4x (50K → 220K users)
+- ✅ Generated $5M+ revenue through strategic listings
+- ✅ Built strategic partnerships with 100+ blockchain projects
+- ✅ Recognized with "Community Leadership Excellence Award"
+- ✅ Established platform as top destination for emerging projects
+
+---
+
+### **Previous Role: Hotbit Exchange (Apr 2019 - May 2023)** ⚠️
+**Position**: Customer Support Manager  
+**Crisis Management**: Led operations during company bankruptcy
+
+**Why I Left**:
+- ⚠️ **Company Context**: Hotbit faced severe financial distress and filed for bankruptcy in 2023, resulting in **$360M loss**
+- ⚠️ **Market Situation**: Crypto winter and exchange failures affected multiple platforms
+- ✅ **My Leadership During Crisis**: Despite bankruptcy, maintained 95%+ customer satisfaction
+- ✅ **What I Did**: Managed customer operations, protected user funds, maintained service levels
+- ✅ **Transition Decision**: Moved to Tapbit (growing platform) when Hotbit became operationally unviable
+
+**Key Achievements During Crisis**:
+- ✅ Maintained 95%+ customer satisfaction despite company collapse
+- ✅ Managed 15+ support team through uncertain period
+- ✅ Resolved 100,000+ support tickets monthly with professionalism
+- ✅ Ensured customer assets remained protected despite bankruptcy
+- ✅ Recognized with "Customer Support Excellence Award" for crisis management
+
+**Learning from Experience**: 
+Valuable lessons in crisis management, organizational resilience, and operational continuity during market downturns. This experience strengthened my understanding of exchange operations and security priorities.
+
+---
+
+## 🏢 Professional Journey Summary
+
+### **SpudBlocks CEO (2018 - Present)** 👑
+**Company Status**: Founder, Semi-Active Advisor  
+**Current Role**: Founder/Advisor (5% time allocation)
+
+**Legacy Achievement**:
+- Founded dynamic blockchain & cryptocurrency firm
+- Delivered 50+ successful Web3 projects
+- Built team of tech specialists
+- Established industry reputation & thought leadership
+- Launched multiple successful ventures
+- Generated significant value through multiple projects
+
+**Current Status**: Transitioning to advisory role as SpudPay demands full attention. Still maintain equity and board oversight.
+
+---
+
+## 🔧 Contract-Based Projects & Expertise
 
 ### **Copx AI** | Web Developer & Data Analyst
 **AI-Powered Cryptocurrency Trading Platform**
@@ -328,7 +351,7 @@ Led operations and development of community-powered trading bot platform.
 |-----------|-----------|------------|
 | **Solidity** | Expert | 6+ years |
 | **Smart Contracts** | Expert | ERC-20, ERC-721, ERC-1155, Custom Protocols |
-| **DeFi Protocols** | Advanced | Lending, AMM, Yield Farming, DEX, Liquidity Pools |
+| **DeFi Protocols** | Expert | Lending, AMM, Yield Farming, DEX, Liquidity Pools |
 | **Web3.js** | Expert | Wallet integration, Contract interaction, Event listening |
 | **Ethereum/Polygon/BSC** | Advanced | Multi-chain development & deployment |
 | **NFT Standards** | Advanced | Creation, Management, Marketplaces |
@@ -456,7 +479,7 @@ Led operations and development of community-powered trading bot platform.
 - 🏛️ **Strategic Partnership Growth** - Tapbit Exchange, 60+ project listings facilitated (Jul 2024)
 
 ### **2023**
-- 🎖️ **Customer Support Excellence** - Hotbit Exchange, 95%+ satisfaction maintained (May 2023)
+- 🎖️ **Customer Support Excellence** - Hotbit Exchange, 95%+ satisfaction maintained during crisis (May 2023)
 
 ---
 
@@ -527,7 +550,7 @@ I uniquely combine three critical skill sets:
 | **Technical** | 7+ years blockchain engineering | Implement solutions properly |
 | **Community** | 220K+ users managed | Scale through engagement |
 
-### **Why Companies Hire Me**
+### **Why Companies Partner With Me**
 ✅ **Complete Understanding** - I speak both engineering and business  
 ✅ **Track Record** - $87M+ VC backing, 220K+ users, 50+ projects  
 ✅ **End-to-End** - From strategy to execution to scaling  
@@ -536,33 +559,28 @@ I uniquely combine three critical skill sets:
 
 ---
 
-## 📬 Professional Opportunities
+## 📬 Currently Building SpudPay
 
-### **Looking For:**
+I am **100% focused on SpudPay** (my own blockchain fintech venture) and not actively seeking full-time employment.
 
-#### 🏢 **Enterprise & Corporate**
-- Web3 Strategy & Leadership roles
-- Chief Technology Officer (CTO) positions
-- Head of Blockchain Development
-- Business Development Executive roles
+### **However, I'm open to:**
 
-#### 🚀 **Startups & Ventures**
-- Co-founder positions (preferably equity-based)
-- Technical founding team roles
-- Series A/B technical leadership
-- Scale-up technical strategy
+#### **For SpudPay:**
+- ✅ **Co-founders** (technical, business, community roles)
+- ✅ **Series A Investment** from VCs & angels
+- ✅ **Strategic Partnerships** with payment networks & financial institutions
+- ✅ **Technical Advisors** & domain experts
+- ✅ **Team Members** (key hires for scaling)
 
-#### 🌐 **Web3 Ecosystem**
-- DeFi Protocol development leadership
-- Exchange & trading platform roles
-- GameFi/NFT platform development
-- Blockchain infrastructure projects
+#### **Strategic Opportunities (Limited Capacity):**
+- ✅ **Board Positions** for growth-stage companies
+- ✅ **Advisory Roles** for Web3 startups
+- ✅ **Consulting Engagements** on blockchain strategy
 
-#### 💼 **Consulting & Advisory**
-- Web3 business strategy consulting
-- Technical architecture advisory
-- Blockchain ecosystem development
-- Due diligence & project evaluation
+#### **What I'm NOT Looking For:**
+- ❌ Full-time employment positions
+- ❌ Non-founder technology roles
+- ❌ Part-time development contracts
 
 ---
 
@@ -570,17 +588,18 @@ I uniquely combine three critical skill sets:
 
 <div align="center">
 
-| Channel | Details |
-|---------|---------|
-| **Email** | [ashikweb3.o@gmail.com](mailto:ashikweb3.o@gmail.com) |
-| **Phone** | [+880 1619-617036](tel:+8801619617036) |
-| **WhatsApp** | [+880 1336-176841](https://wa.me/8801336176841) |
-| **LinkedIn** | [Ashikur Rahaman](https://www.linkedin.com/in/ashik-the-knight/) |
-| **GitHub** | [@Ashikurrahaman287](https://github.com/Ashikurrahaman287) |
-| **Portfolio** | [ashik.spudblocks.com](https://ashik.spudblocks.com) |
+| Channel | Details | Best For |
+|---------|---------|----------|
+| **Email** | [ashikweb3.o@gmail.com](mailto:ashikweb3.o@gmail.com) | Professional inquiries |
+| **Phone** | [+880 1619-617036](tel:+8801619617036) | Urgent matters |
+| **WhatsApp** | [+880 1336-176841](https://wa.me/8801336176841) | Quick conversations |
+| **LinkedIn** | [Ashikur Rahaman](https://www.linkedin.com/in/ashik-the-knight/) | Professional network |
+| **GitHub** | [@Ashikurrahaman287](https://github.com/Ashikurrahaman287) | Code & projects |
+| **Portfolio** | [ashik.spudblocks.com](https://ashik.spudblocks.com) | Complete showcase |
 
-**Availability**: 🟢 Open for Strategic Opportunities  
-**Timezone**: GMT+6 (Bangladesh Standard Time)
+**Availability**: 🟢 Open for SpudPay Opportunities & Strategic Partnerships  
+**Timezone**: GMT+6 (Bangladesh Standard Time)  
+**Response Time**: Usually within 24 hours for professional inquiries
 
 </div>
 
@@ -601,49 +620,47 @@ I uniquely combine three critical skill sets:
 
 ---
 
-## 🚀 Current Focus Areas
+## 🚀 Current Focus Areas (SpudPay)
 
-- 🌍 **Building the Future of FinTech** - SpudPay expansion globally
-- ⛓️ **Web3 Ecosystem Development** - Strategic partnerships & growth
-- 🤖 **AI-Powered Trading** - Next-gen algorithmic solutions
-- 🎮 **GameFi Innovation** - Play-to-earn ecosystem development
-- 💰 **DeFi Protocols** - Sustainable yield farming solutions
-- 🔐 **Blockchain Security** - Enhanced smart contract auditing
-- 📚 **Knowledge Sharing** - Mentoring next-gen Web3 entrepreneurs
+- 🌍 **Global Expansion** - Building blockchain-based MFS platform for emerging markets
+- 💰 **Fundraising** - Seeking Series A investment to accelerate growth
+- 🤝 **Team Building** - Recruiting technical co-founders & key team members
+- ⛓️ **Product Development** - Smart contracts & mobile app development
+- 🔐 **Security & Compliance** - Enterprise-grade financial infrastructure
+- 📱 **User Acquisition** - Market expansion strategy
+- 🎯 **Business Development** - Strategic partnerships with payment networks
 
 ---
 
 ## 💡 Philosophy & Approach
 
-> *"The future of finance is decentralized. My mission is to build the infrastructure, partnerships, and communities that make Web3 mainstream. Every project is an opportunity to advance the entire ecosystem."*
+> *"The future of finance is decentralized. My mission is to build the infrastructure, partnerships, and communities that make Web3 mainstream. SpudPay is my moonshot to democratize financial services globally."*
 
 ### **My Working Principles**
 - 🎯 **Results-Driven**: Measure success by real-world impact
 - 🤝 **Collaborative**: Strong partnerships create exponential growth
 - 🚀 **Scalable**: Build for 100x growth, not incremental progress
-- 🔐 **Secure**: Security is non-negotiable in blockchain
+- 🔐 **Secure**: Security is non-negotiable in finance
 - 📊 **Data-Informed**: Decisions backed by analytics & insights
 - ♻️ **Sustainable**: Build for long-term value, not quick exits
 
 ---
 
+## 🔐 Verified Credentials
+
 <div align="center">
 
-### 🌟 Pioneering the Future of FinTech & Web3
+✅ **LinkedIn Profile**: [Ashikur Rahaman - 15K+ connections](https://www.linkedin.com/in/ashik-the-knight/)
 
-**Combining business strategy, blockchain technology, and community building to create sustainable Web3 ecosystems.**
+✅ **Portfolio Website**: [ashik.spudblocks.com - Complete showcase](https://ashik.spudblocks.com)
 
----
+✅ **GitHub Profile**: [50+ public & private repositories](https://github.com/Ashikurrahaman287)
 
-**Status**: 🟢 Active Entrepreneur & Technical Leader  
-**Last Updated**: May 2026  
-**Open For**: Strategic Partnerships, Leadership Roles, Consulting
+✅ **Industry Recognition**: 6+ major awards from known companies
 
----
+✅ **Testimonials**: 6 verified testimonials from industry leaders
 
-[![Made with Passion](https://img.shields.io/badge/Made%20with%20Passion%20by-Ashikur%20Rahaman-00FF7F?style=flat-square)](https://github.com/Ashikurrahaman287)
-
-**Building the decentralized economy, one partnership at a time 🚀**
+✅ **Track Record**: $87M+ VC backing, 220K+ users, 50+ projects
 
 </div>
 
@@ -655,6 +672,29 @@ I uniquely combine three critical skill sets:
 - **GitHub Repositories**: [50+ open-source & commercial projects](https://github.com/Ashikurrahaman287?tab=repositories)
 - **LinkedIn Profile**: [Professional network & endorsements](https://www.linkedin.com/in/ashik-the-knight/)
 - **Case Studies**: Available upon request
+- **Media Kit**: [SpudPay Investor Deck](https://ashik.spudblocks.com) - Available for serious inquiries
+
+---
+
+<div align="center">
+
+### 🌟 Pioneering the Future of FinTech & Web3
+
+**Building SpudPay: The Next Generation of Global Financial Services**
+
+---
+
+**Status**: 🟢 Actively Building SpudPay | 🟡 Limited Partnerships | 🟢 Investment-Ready  
+**Last Updated**: May 2026  
+**Open For**: Co-Founders, Series A Investment, Strategic Partnerships
+
+---
+
+**Education**: BBA from East West University  
+**Experience**: 7+ Years Technical + 10+ Years Entrepreneurial  
+**Current Mission**: Making blockchain-based financial services mainstream
+
+</div>
 
 ---
 
@@ -663,5 +703,11 @@ I uniquely combine three critical skill sets:
 **© 2018-2026 Ashikur Rahaman. All Rights Reserved.**
 
 *Pioneering the Future of FinTech & Web3*
+
+---
+
+[![Made with Vision](https://img.shields.io/badge/Made%20with%20Vision%20by-Ashikur%20Rahaman-00FF7F?style=flat-square)](https://github.com/Ashikurrahaman287)
+
+**Building the decentralized economy, one platform at a time 🚀**
 
 </div>
