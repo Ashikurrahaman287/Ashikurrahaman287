@@ -87,7 +87,7 @@ Strategic board position overseeing:
 
 ---
 
-### **SpudBlocks** | CEO (2018 - 2024)
+### **SpudBlocks** | CEO (2018 - Present)
 **Blockchain & Cryptocurrency Solutions Firm**
 
 **Company Mission**: Advance Web3 businesses of all scales through pioneering strategies and cutting-edge technology.
