@@ -34,7 +34,7 @@ I am a **results-driven Web3 Business Development Executive** and **Full-Stack B
 ## 🎓 Educational Background
 
 ### **Bachelor of Business Administration (BBA)**
-**East West University, Bangladesh** | *Completed*
+**East West University, Bangladesh** | 
 
 **Academic Foundation**:
 - Business Strategy & Growth Planning
