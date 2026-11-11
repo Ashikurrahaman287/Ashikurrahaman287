@@ -577,11 +577,6 @@ I am **100% focused on SpudPay** (my own blockchain fintech venture) and not act
 - ✅ **Advisory Roles** for Web3 startups
 - ✅ **Consulting Engagements** on blockchain strategy
 
-#### **What I'm NOT Looking For:**
-- ❌ Full-time employment positions
-- ❌ Non-founder technology roles
-- ❌ Part-time development contracts
-
 ---
 
 ## 🤝 Let's Connect
