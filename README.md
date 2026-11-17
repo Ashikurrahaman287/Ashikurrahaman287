@@ -50,22 +50,63 @@ Building high-impact blockchain infrastructure, decentralized applications, and 
 
 ---
 
-## 🛠️ Technical Expertise
+## 💻 Technology Stack
 
-- **Blockchain & Web3:** Solidity, Smart Contracts (ERC-20, ERC-721, ERC-1155), DeFi Protocols (AMM, Lending, Yield Farming), Web3.js, Ethereum, Polygon, BSC.
-- **Languages:** Python, JavaScript, TypeScript, Go, SQL, Bash.
-- **Backend & Cloud:** Node.js, REST APIs, GraphQL, WebSockets, Docker, AWS, Google Cloud.
-- **Databases:** PostgreSQL, MongoDB, Redis.
+### **Blockchain & Web3**
+![Blockchain](https://skillicons.dev/icons?i=solidity&theme=dark)
+
+| Technology | Expertise | Experience |
+|-----------|-----------|------------|
+| **Solidity** | Expert | 6+ years |
+| **Smart Contracts** | Expert | ERC-20, ERC-721, ERC-1155, Custom Protocols |
+| **DeFi Protocols** | Expert | Lending, AMM, Yield Farming, DEX, Liquidity Pools |
+| **Web3.js** | Expert | Wallet integration, Contract interaction, Event listening |
+| **Ethereum/Polygon/BSC** | Advanced | Multi-chain development & deployment |
+| **NFT Standards** | Advanced | Creation, Management, Marketplaces |
+
+### **Programming Languages**
+![Languages](https://skillicons.dev/icons?i=python,javascript,go,sql&theme=dark)
+
+| Language | Expertise | Use Cases |
+|----------|-----------|-----------|
+| **Python** | Expert | Data analysis, trading bots, automation, ML |
+| **JavaScript** | Advanced | Web development, Node.js backends, Web3 |
+| **Go** | Advanced | High-performance services, APIs |
+| **SQL** | Advanced | Database design, query optimization |
+| **Solidity** | Expert | Smart contracts, DeFi protocols |
+
+### **Backend & Services**
+![Backend](https://skillicons.dev/icons?i=nodejs&theme=dark)
+
+- **Node.js** - REST APIs, GraphQL, real-time systems
+- **REST APIs** - Microservices, exchange integrations
+- **GraphQL** - Efficient data querying
+- **Message Queues** - RabbitMQ, Kafka for real-time data
+- **WebSocket** - Live market data streaming
+
+### **Cloud & DevOps**
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,git&theme=dark)
+
+- **AWS** - EC2, S3, Lambda, RDS, CloudWatch
+- **Google Cloud** - Compute Engine, Cloud Storage, Functions
+- **Docker** - Containerization, multi-stage builds
+- **GitHub/Git** - Version control, CI/CD pipelines
+
+### **Databases**
+- **PostgreSQL** - Relational data, complex queries
+- **MongoDB** - Document storage, NoSQL scaling
+- **Redis** - Caching, real-time data
+- **SQLite** - Lightweight applications
 
 ---
 
-## 💻 GitHub Stats
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashikurrahaman287&theme=dark&hide_border=true&show_icons=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashikurrahaman287&theme=dark&hide_border=true&stroke=00FF7F)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashikurrahaman287&theme=dark&hide_border=true&layout=compact)
 
 </div>
 
