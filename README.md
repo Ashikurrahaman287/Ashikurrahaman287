@@ -3,9 +3,13 @@
 # Ashikur Rahaman
 ### Web3 Business Visionary | Full-Stack Blockchain Engineer | 
 
-[![Website](https://img.shields.io/badge/Portfolio-ashik.spudblocks.com-00FF7F?style=flat-square&logo=globe&logoColor=white)](https://ashik.spudblocks.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashikur%20Rahaman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-the-knight/)
-[![Email](https://img.shields.io/badge/Email-ceo@spudblocks.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ceo@spudblocks.com)
+![Profile Banner](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=26&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=1200&lines=Pioneering+the+Future+of+FinTech+%26+Web3;Building+Decentralized+Economies+at+Scale;+%7C+7%2B+Years+of+Technical+Excellence;220K%2B+Communities+%7C+%241.1M%2B+VC+Backing)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashikur%20Rahaman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-the-knight/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ashikurrahaman287-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashikurrahaman287)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashik.spudblocks.com-00FF7F?style=for-the-badge&logo=globe&logoColor=white)](https://ashik.spudblocks.com)
+[![Email](https://img.shields.io/badge/Email-ceo@spudblocks.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceo@spudblocks.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B880%201336--176841-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801336176841)
 
 </div>
 
@@ -18,7 +22,7 @@ I am a **results-driven Web3 Business Development Executive** and **Full-Stack B
 Combining a **BBA from East West University** with hands-on engineering, I bridge the gap between technical infrastructure and scalable business growth.
 
 ### **Key Metrics**
-- 💰 **$87M+** in VC backing across portfolio projects
+- 💰 **$1.1M+** in VC backing across portfolio projects
 - 👥 **15M+** active users served globally
 - 🌍 **220K+** community members scaled and managed
 - ⚡ **50+** successful Web3 & DeFi products delivered
@@ -27,8 +31,9 @@ Combining a **BBA from East West University** with hands-on engineering, I bridg
 
 ## 🚀 Current Venture
 
-### **[SpudPay](https://ashik.spudblocks.com)** — Founder & CEO *(2025 – Present)*
-Building a next-generation, blockchain-based Mobile Financial Service (MFS) engineered to make cross-border payments, digital banking, and international remittances seamless, fast, and cost-effective.
+### **[SpudBlocks](https://spudblocks.com)** — Founder & CEO *(2018 – Present)*
+Building high-impact blockchain infrastructure, decentralized applications, and enterprise Web3 solutions. Delivering 50+ successful projects and scaling secure systems across global crypto ecosystems.
+
 
 ---
 
@@ -36,7 +41,7 @@ Building a next-generation, blockchain-based Mobile Financial Service (MFS) engi
 
 | Role | Company | Focus / Impact | Dates |
 | :--- | :--- | :--- | :--- |
-| **Founder & CEO** | SpudPay | Blockchain-based MFS & cross-border payments | 2025 – Present |
+| **Founder & CEO** | Spudblocks | Blockchain-based Saas Solution Provider | 2018 – Present |
 | **Board Member** | AGT Venture | Strategic guidance & portfolio oversight | 2022 – Present |
 | **Advisor** | Arcane Group | Deal evaluation & sustainable Web3 growth | 2025 – Present |
 | **Business Executive** | AscendEx | Delivered 50+ strategic exchange partnerships | Aug 2025 – Apr 2026 |
